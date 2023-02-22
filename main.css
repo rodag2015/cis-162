@@ -1,0 +1,16 @@
+body {background-color: crimson;
+font-family: segoe, verdana, sans-serif;}
+
+header {background-color: black;
+        }
+
+h1{color:yellow}
+nav > ul {line-height: 2em;
+      list-style-type: none;
+       padding-left: 5px;}
+
+section {background-color: yellow;
+         width: 75%;
+         font-size: 1.2em;}
+
+footer {background-color: crimson;}
